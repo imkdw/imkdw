@@ -4,4 +4,4 @@
 
 ### 📪 Email : imkdw@kakao.com
 
-### 💻 Blog : [Tistory - iamiet.tistory.com](https://iamiet.tistory.com)
+### 💻 Blog : [티스토리](https://iamiet.tistory.com), [IMKDW_DEV(준비중)](https://imkdw.dev)
