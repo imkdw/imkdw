@@ -4,8 +4,16 @@
 
 ### 📪 Email : imkdw@kakao.com
 
-### 💻 Blog : [티스토리](https://iamiet.tistory.com), [IMKDW_DEV(준비중)](https://imkdw.dev)
+### 💻 Blog : [IMKDW_DEV](https://imkdw.dev)
 <br>
 
 # Badges
 ![aws-certified-solutions-architect-associate](https://github.com/imkdw/imkdw/assets/79612895/b6c1ae81-12d0-4b23-ad66-a4fc02caee31)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/imkdw"
+  width="600"
+  height="300"
+/>
+</a>
